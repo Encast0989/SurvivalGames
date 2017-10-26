@@ -1,0 +1,5 @@
+name: SurvivalGames
+version: ${project.version}
+main: club.encast.survivalgames.SurvivalGames
+authors: [Encast]
+description: Minecraft minigame based off the popular book, Hunger Games.
