@@ -12,5 +12,8 @@ public class ChatListener implements Listener {
         e.setCancelled(true);
         Bukkit.getServer().getOnlinePlayers().forEach(o ->
                 o.sendMessage("§b[TESTER] " + e.getPlayer().getName() + "§f: " + e.getMessage()));
-    }
-}
+
+
+        }
+        }
+
