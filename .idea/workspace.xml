@@ -1,29 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e48b173a-fa6a-4d8b-9bb7-e254c54affb1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_Encast0989_GameEngine_v1_0_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_2_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_17_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_googlecode_json_simple_json_simple_1_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_persistence_persistence_api_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_10.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_md_5_bungeecord_chat_1_8_SNAPSHOT.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_avaje_ebean_2_8_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bukkit_bukkit_1_8_8_R0_1_SNAPSHOT.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bukkit_craftbukkit_1_8_8_R0_1_SNAPSHOT.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_spigotmc_spigot_api_1_8_8_R0_1_SNAPSHOT.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_15.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/club/encast/survivalgames/ChestItem.java" afterPath="$PROJECT_DIR$/src/main/java/club/encast/survivalgames/ChestItem.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/club/encast/survivalgames/listener/ChatListener.java" afterPath="$PROJECT_DIR$/src/main/java/club/encast/survivalgames/listener/ChatListener.java" />
-    </list>
+    <list default="true" id="e48b173a-fa6a-4d8b-9bb7-e254c54affb1" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -112,8 +90,8 @@
       <file leaf-file-name="ChestItem.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/club/encast/survivalgames/ChestItem.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="612">
-              <caret line="46" column="85" lean-forward="true" selection-start-line="46" selection-start-column="85" selection-end-line="46" selection-end-column="85" />
+            <state relative-caret-position="221">
+              <caret line="23" column="79" lean-forward="true" selection-start-line="23" selection-start-column="79" selection-end-line="23" selection-end-column="79" />
               <folding />
             </state>
           </provider>
@@ -423,12 +401,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1509036846218</updated>
-      <workItem from="1509036848164" duration="1199000" />
+      <workItem from="1509036848164" duration="1578000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1199000" />
+    <option name="totallyTimeSpent" value="1578000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -678,8 +656,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/club/encast/survivalgames/ChestItem.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="46" column="85" lean-forward="true" selection-start-line="46" selection-start-column="85" selection-end-line="46" selection-end-column="85" />
+        <state relative-caret-position="221">
+          <caret line="23" column="79" lean-forward="true" selection-start-line="23" selection-start-column="79" selection-end-line="23" selection-end-column="79" />
           <folding />
         </state>
       </provider>
