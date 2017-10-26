@@ -35,7 +35,7 @@ public enum ChestItem {
     private double percentChance;
     private boolean renamable;
     private static String[] prefixes = new String[] {"Fun", "Fast", "Blackbeard's", "Encast's", "Cute", "Raw", "Broken",
-            "Terrifying", "Dogegogo's", "TERRIFYINGLY STICKY", "Magically Magical", "Blue"};
+            "Terrifying", "Dogegogo's", "TERRIFYINGLY STICKY", "Magically Magical", "Blue", "Mike is better"};
 
     ChestItem(String name, ItemStack item, double percentChance) {
         this.name = name;
